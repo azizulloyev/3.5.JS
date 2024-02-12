@@ -3,8 +3,8 @@ var a = prompt('yoshingizni yozing')
         console.log('Dost')
     }
     else if (a < 15){
-        console.log('aka')
+        console.log('uka')
     }
     else if (a >15 ){
-        console.log('uka')
+        console.log('aka')
     }
